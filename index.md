@@ -6,12 +6,15 @@ You can use the [editor on GitHub](https://github.com/CRWayman/CRWayman.github.i
 
 Markdown is a lightweight and easy-to-use suntax for styling your writing. It includes conventions for
 
-```markdown
-
 # Header 1
 ## Header 2
 ### Header 3
 
 - Bulleted
-- List	 
+- List
+
+```python
+
+print('This is a Python code chunk')
+	 
 ```
