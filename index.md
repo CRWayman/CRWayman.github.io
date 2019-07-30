@@ -3,7 +3,7 @@
 My name is Callum Wayman. I am an Earth scientist, a programmer, and an engineer.
 
 ### M.S. - Pennsylvania State University '18
-### B.S. - Purdue University '16
+### [B.S. - Purdue University '16](https://crwayman.github.io/purdue/)
 
 ## NASA DEVELOP
 ### [Summer 2019 - Ellicott City Disasters](https://develop.larc.nasa.gov/2019/Summer/EllicottCityDisasters.html)
