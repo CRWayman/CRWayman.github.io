@@ -4,6 +4,5 @@ theme: jekyll-theme-minimal
 title: Welcome to Callum's homepage!
 description: Come to this site for all your Callum related content.
 
-navbar-links:
-  permalink: 'https://www.linkedin.com/in/callumrwayman/'
+<a href="https://www.linkedin.com/in/callumrwayman/">LinkedIn</a>
 
