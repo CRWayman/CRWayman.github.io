@@ -41,3 +41,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+banner_img {
+    position: relative
+    width: 50%
+}
