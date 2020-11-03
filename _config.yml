@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 
 #Name of webite
-title: Welcome to Callum's homepage!
+title: Callum's Personal Website
 description: Come to this site for all your Callum related content.
+markdown: kramdown
 
-permalink: <a href="https://www.linkedin.com/in/callumrwayman/">LinkedIn</a>
 
