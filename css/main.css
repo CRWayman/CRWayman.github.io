@@ -42,7 +42,7 @@ ul.posts li {
     list-style: none;
 }
 
-banner_img img {
+.banner_img img {
     position: relative
     width: 50%
     display: block;
