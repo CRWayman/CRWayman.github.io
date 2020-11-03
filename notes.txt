@@ -1,9 +1,14 @@
-## About Me
+# To Do
 
-My name is Callum Wayman. I am an Earth scientist, a programmer, and an engineer.
+## About
+- I think we should change about to some kind of portfolio? Maybe the CV can be literally my CV and then I can have a portfolio with nice pictures.
+- The portfolio could outline my DEVELOP work, show my AGU 2018 poster, and maybe link to some fluid pages
 
-### M.S. - Pennsylvania State University '18
-### [B.S. - Purdue University '16](https://crwayman.github.io/purdue/)
+## CV
+- Add link below to CV, and other DEVELOP project
+- Add links to publications
+- Add pdf download option
+
 
 ## NASA DEVELOP
 ### [Summer 2019 - Ellicott City Disasters](https://develop.larc.nasa.gov/2019/Summer/EllicottCityDisasters.html)
