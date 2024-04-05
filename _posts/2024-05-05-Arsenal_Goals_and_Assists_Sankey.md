@@ -10,8 +10,8 @@ date: 2024-04-05
 
 <script type="text/javascript">
 $(document).ready(function(e) {
-    $('#header').load('html/test_sankey.html',function(){alert('loaded')});
+    $('#header').load('/html/test_sankey.html',function(){alert('loaded')});
 });
 </script>
 
-<iframe id="igraph" scrolling="no" style="border:none" seamless="seamless" src="html/test_sankey.html"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none" seamless="seamless" src="/html/test_sankey.html"></iframe>
