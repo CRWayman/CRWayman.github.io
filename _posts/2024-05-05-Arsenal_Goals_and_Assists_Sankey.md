@@ -8,10 +8,4 @@ date: 2024-04-05
 
 ## Distribution of G/A Contribution from Arsenal Players
 
-<script type="text/javascript">
-$(document).ready(function(e) {
-    $('#header').load('/html/test_sankey.html',function(){alert('loaded')});
-});
-</script>
-
-<iframe id="igraph" scrolling="no" style="border:none" seamless="seamless" src="/html/test_sankey.html"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none" seamless="seamless" src="/html/test_sankey.html" height="525" width="100%"></iframe>
