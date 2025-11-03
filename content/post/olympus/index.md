@@ -6,23 +6,21 @@ title = 'Olympus'
 
 ## A New Addition
 
-![olympus](olympus.jpg)
+![](olympus.jpg)
+_My new Olympus OM-1_
 
 I bit the bullet on an Olympus OM-1 this week. I snagged it from District Camera after some prodding from Goose and it's a purchase I don't think I'll soon regret. I'm eager to get shooting with it, and I keep think of places I could go that might be good studies for a roll of film.
 
 When Zoe and I went to Japan last year, I took photos on a Leica ZX-2. As you can see from the photos below, the quality you get out of that simple point and shoot runs the gamut.
 
+![door](door.jpg)
 _A shot into a recreation of a 18th or 19th century Japanese home_
 
-![door](door.jpg)
-
+![torii](torii.jpg)
 _The Meiji Jingu Ichino Torii in Tokyo_
 
-![torii](torii.jpg)
-
-_An attempt to capture a delicious espresso in Monzen-nakacho_
-
 ![espresso](espresso.jpg)
+_An attempt to capture a delicious espresso in Monzen-nakacho_
 
 I could see that sometimes I was getting crisp clarity, and other times I was geting blurry shots, weird blown out highlights, or grainy dark images. I think especially this roll of Ilford HP5 was really beautiful film compared to the Kodak color rolls I also shot. Those turned out largely _meh_ in my eyes. The thing I didn't understand was why I got the results I did, even the good ones! What was happening in this camera that dictated the quality of my photographs.
 
@@ -36,11 +34,12 @@ I went back to the U.S. empty handed, but immediately started to talk to Goose a
 
 I've recently finally started to take some photos I'm really proud of, and Zoe even printed one I took in Ireland to hang in our apartment.
 
-![cliffs](/images/cliffs.jpg)
+![cliffs](cliffs.jpg)
+_The Cliffs of Moher_
 
 And so last week, I suddenly chose to search the used gear page on the District Camera website and laid my eyes on an affordable, pristine Olympus OM-1.
 
-I can't wait to shoot a roll on this thing and likely be humbled for thinking I was ready to wield a camera that really doesn't hold your hand at all. Even with my Fujifilm, you still have autofocus, and the option to let the camera pick your exposure settings. The OM-1 is a whole new beast that will require me to use a light meter, and understand what scenes call for what settings. It's a bit daunting!
+I can't wait to shoot a roll on this thing and likely be humbled for thinking I was ready to wield a camera that really doesn't hold your hand at all. Even with my Fujifilm, you still have autofocus, and the option to let the camera pick your exposure settings. The OM-1 is a whole new beast that will require me to use a light meter, manually focus the camera, and understand what scenes call for what settings. It's a bit daunting!
 
 I'm sure it will be a blast.
 
