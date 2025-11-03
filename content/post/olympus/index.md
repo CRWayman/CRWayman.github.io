@@ -1,12 +1,12 @@
 +++
 date = '2025-11-02T22:10:55-05:00'
-draft = true
+draft = false
 title = 'Olympus'
 +++
 
 ## A New Addition
 
-![olympus](/images/olympus.jpg)
+![olympus](olympus.jpg)
 
 I bit the bullet on an Olympus OM-1 this week. I snagged it from District Camera after some prodding from Goose and it's a purchase I don't think I'll soon regret. I'm eager to get shooting with it, and I keep think of places I could go that might be good studies for a roll of film.
 
@@ -14,15 +14,15 @@ When Zoe and I went to Japan last year, I took photos on a Leica ZX-2. As you ca
 
 _A shot into a recreation of a 18th or 19th century Japanese home_
 
-![door](/images/door.jpg)
+![door](door.jpg)
 
 _The Meiji Jingu Ichino Torii in Tokyo_
 
-![torii](/images/torii.jpg)
+![torii](torii.jpg)
 
 _An attempt to capture a delicious espresso in Monzen-nakacho_
 
-![espresso](/images/espresso.jpg)
+![espresso](espresso.jpg)
 
 I could see that sometimes I was getting crisp clarity, and other times I was geting blurry shots, weird blown out highlights, or grainy dark images. I think especially this roll of Ilford HP5 was really beautiful film compared to the Kodak color rolls I also shot. Those turned out largely _meh_ in my eyes. The thing I didn't understand was why I got the results I did, even the good ones! What was happening in this camera that dictated the quality of my photographs.
 
