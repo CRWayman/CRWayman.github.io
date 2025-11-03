@@ -1,0 +1,7 @@
+baseURL = 'https://CRWayman.github.io/'
+languageCode = 'en-us'
+title = 'The Calegraph'
+theme = 'PaperMod'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
